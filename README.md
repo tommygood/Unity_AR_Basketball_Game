@@ -16,4 +16,4 @@
 2. `git clone https://github.com/tommygood/Unity_AR_Basketball_Game.git`
 
 <h2>實際遊玩</h2>
-<image href = "https://github.com/tommygood/Unity_AR_Basketball_Game/blob/master/demo_cut.gif"></image>
+<image src = "https://github.com/tommygood/Unity_AR_Basketball_Game/blob/master/demo_cut.gif"></image>
